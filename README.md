@@ -49,11 +49,26 @@
   <li> <a href="https://jigsaw.w3.org/css-validator/" target="_blank">W3C CSS Validation Service</a></li>
   <li> <a href="https://validator.w3.org/" target="_blank">Nu HTML Checker</a></li>
   <li> <a href="https://validator.w3.org/checklink" target="_blank">W3C Link Checker</a></li>
+  <li> <a href="https://typosaur.us/" target="_blank">Spell Checker</a></li>
   <li> <a href="https://fonts.google.com/" target="_blank">Google Fonts</a></li>
 </ul>
 
-<!--Testing-->
-<!--Deployment-->
+<h3>Testing</h3>
+<ul>
+  <li>Manual user testing is documented in this Google Sheet</li>
+  <ul>
+    <li><a href="https://docs.google.com/spreadsheets/d/1acnpUEgskop6xVp0MEbBV7OGSFoUrLSpkFboLw2x8iw/edit?usp=sharing" target="_blank">Manual User Testing</a></li>
+  </ul>
+  <li>Automated Testing</li>
+  <ul>
+    <li> <a href="https://jigsaw.w3.org/css-validator/" target="_blank">W3C CSS Validation Service</a></li>
+    <li> <a href="https://validator.w3.org/" target="_blank">Nu HTML Checker</a></li>
+    <li> <a href="https://validator.w3.org/checklink" target="_blank">W3C Link Checker</a></li>
+    <li> <a href="https://typosaur.us/" target="_blank">Spell Checker</a></li>
+  </ul>
+</ul>
+
+<h3><a href="https://yiywelin.github.io/ID_S10207423_yiywelin_Assg2_WebApplication/" target="_blank">My GitHub Page Link</a></h3>
 
 <h2>Credits</h2>
 <ul>
